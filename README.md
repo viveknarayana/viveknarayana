@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Springboot<br><br>👨‍💻 All of my projects are available at https://viveknarayana.com/<br><br>📫 How to reach me vnarayana@ucdavis.edu
+🌱 I’m currently learning Springboot<br><br>👨‍💻 All of my projects are available at https://viveknarayana.com/<br><br>📫 How to reach me: vnarayana@ucdavis.edu
 
 
 ## 🌐 Socials:
